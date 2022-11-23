@@ -2,7 +2,7 @@
 
 [![Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green)](https://opensource.org/licenses/Apache-2.0)
 
-![screenshot](img/Screenshot.png)
+![screenshot](img/screenshot.png)
 
 ### [Project URL](https://github.com/jWeibelbootcamp/book-engine-search) 
 
